@@ -3,3 +3,4 @@
 # Make use of variables and dynamic variables
 # Author: Foriben Ngang
 This is a front-end application
+# bugs removed

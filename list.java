@@ -1,4 +1,6 @@
-# List os users
+# List of users
 simon
 peter
 paul
+chi
+ope

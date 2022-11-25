@@ -4,3 +4,5 @@
 # Author: Foriben Ngang
 This is a front-end application
 # bugs removed
+print("car services automated")
+print("Hello $user your car needs servicing")
